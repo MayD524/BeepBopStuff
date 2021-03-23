@@ -1,0 +1,21 @@
+{
+    "min_time_dif": 100,
+    "max_time_dif": 600,
+    "actions":{
+        "action1" : {"say":"Time to drop the ball", "count":5, "keys":["q"], "hold":false, "mode":"keyboard"},
+        "action2" : {"say":"time to whack some ***!", "count":5, "keys":["left"], "hold":true, "mode":"mouse"},
+        "action3" : {"say":"say my name!", "count":null, "keys":"BeepBopStuff", "hold":false, "mode":"gui"},
+        "action4" : {"say":"Lets go for a walk", "count":15, "keys":["w"], "hold":true, "mode":"keyboard"},
+        "action5" : {"say":"lets mine!", "count":20, "keys":["mine_down"], "hold":false, "mode":"action"},
+        "action6" : {"say":"Look out creeper", "count":10, "keys":["sound", "yes.mp3"], "hold":false, "mode":"action"},
+        "action7" : {"say":"WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWw", "count":12, "keys":["w"], "hold":false, "mode":"keyboard"},
+        "action8" : {"say":"Lets go for a skipp", "count":25, "keys":["walk_jump"], "hold":false, "mode":"keyboard"},
+        "action9" : {"say":"Lets go for a run", "count":20, "keys":["sprint"], "hold":true, "mode":"action"},
+        "action10": {"say":"Lets check what we got", "count": 1, "keys":["e"], "hold":false, "mode":"keyboard"},
+        "action11": {"say":"What's That?", "count":10, "keys":["sound", "yes2.mp3"], "hold":false, "mode":"action"},
+        "action12": {"say":"It's the end?", "count":10, "keys":["sound", "yes3.mp3"], "hold":false, "mode":"action"},
+        "action13": {"say":"Retreat!1", "count":20, "keys":["s"], "hold":true, "mode":"keyboard"},
+        "action14": {"say":"Blame ashie :>", "count":10, "keys":["e"], "hold":false, "mode":"keyboard"},
+        "action15": {"say":"Speed run?", "count":1, "keys":["sound", "dream_speedrun_music.mp3"], "hold":false, "mode":"action"}
+    }
+}
