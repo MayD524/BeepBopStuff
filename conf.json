@@ -16,6 +16,5 @@
         "action12": {"say":"It's the end?", "count":10, "keys":["sound", "yes3.mp3"], "hold":false, "mode":"action"},
         "action13": {"say":"Retreat!1", "count":20, "keys":["s"], "hold":true, "mode":"keyboard"},
         "action14": {"say":"Blame ashie :>", "count":10, "keys":["e"], "hold":false, "mode":"keyboard"},
-        "action15": {"say":"Speed run?", "count":1, "keys":["sound", "dream_speedrun_music.mp3"], "hold":false, "mode":"action"}
     }
 }
